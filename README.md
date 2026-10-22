@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="kubernetes-gold-card-preview" src="https://github.com/user-attachments/assets/2ff20fba-6e9a-40e2-b35f-7403ca2371ab" />
+<img width="1774" height="887" alt="Energieprognosen mit Python und ARIMA" src="https://github.com/user-attachments/assets/ea5be4b0-d470-4df5-b42a-8eade712f965" />
 
 ## Data Analysis and Time Series Forecasting with Python
 
