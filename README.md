@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="kubernetes-gold-card-preview" src="https://github.com/user-attachments/assets/2ff20fba-6e9a-40e2-b35f-7403ca2371ab" />
+
 ## Data Analysis and Time Series Forecasting with Python
 
 This repository contains learning notebooks exploring tabular data analysis, numerical computation and seasonal time series forecasting.
